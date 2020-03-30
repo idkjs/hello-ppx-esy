@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ppx_42": "*",
-    "ocaml": "~4.6.1000",
+    "ocaml": "~4.8.1000",
     "@opam/dune": "*",
     "@opam/reason": "*"
   },
